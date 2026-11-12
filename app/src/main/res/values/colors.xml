@@ -2,4 +2,16 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="grey">#4D4D4D</color>
+    <color name="text_grey">#707070</color>
+    <color name="light_grey">#F2F4F7</color>
+    <color name="border_grey">#D0D5DD</color>
+
+    <!-- Theme / Status Colors -->
+    <color name="primary_blue">#1A73E8</color>
+    <color name="light_blue">#E8F0FE</color>
+    <color name="border_blue">#1A73E8</color>
+    <color name="green_status">#2E7D32</color>
+    <color name="light_green">#E8F5E9</color>
+    <color name="border_green">#4CAF50</color>
 </resources>
