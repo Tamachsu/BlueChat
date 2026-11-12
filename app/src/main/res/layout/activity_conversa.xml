@@ -11,6 +11,7 @@
         android:id="@+id/layoutHeader"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:background="@color/white"
         android:orientation="vertical"
         android:padding="15dp"
         app:layout_constraintEnd_toEndOf="parent"
@@ -47,6 +48,7 @@
     <ScrollView
         android:id="@+id/scrollMensagens"
         android:layout_width="match_parent"
+        android:background="@color/white"
         android:layout_height="0dp"
         android:fillViewport="true"
         android:paddingStart="15dp"
